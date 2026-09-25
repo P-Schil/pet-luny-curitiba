@@ -22,3 +22,7 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+
+
+## Site Gunara Pet Luny
+Landing page profissional em React + Tailwind CSS, preparada para publicação via HostGator/cPanel.
